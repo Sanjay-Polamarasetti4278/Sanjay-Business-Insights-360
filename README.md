@@ -1,11 +1,13 @@
 # Sanjay-Business-Insights-360 |Power BI|
+Project Summary
+
 "Developed a Power BI dashboard for AtliQ Hardware to address declining sales and inefficient analytics, utilizing DAX, Power Query, and advanced data modeling (STAR &amp; Snowflake schema). The dashboard provided key insights across Finance, Sales, Marketing, and Executive views.
 
 Project Link:
 
 Live Dashboard :  https://shorturl.at/AQRKA
 
-𝗢𝘃𝗲𝗿𝘃𝗶𝗲𝘄:
+Problem Statement:
 AtliQ Hardware, a computer hardware and peripherals manufacturer, faced a number of issues, including:
 1. Declining sales
 2. Lack of sales data insight
