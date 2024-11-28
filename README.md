@@ -10,6 +10,7 @@ AtliQ Hardware, a computer hardware and peripherals manufacturer, faced a number
 2. Lack of sales data insight
 3. Inefficient analytics
 4. Rapidly changing market
+
 To address these issues, the sales director implemented a Power BI dashboard to convert data into visual representation.
 
 💡 𝗞𝗲𝘆 𝗛𝗶𝗴𝗵𝗹𝗶𝗴𝗵𝘁𝘀 𝗼𝗳 𝘁𝗵𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁:
