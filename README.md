@@ -8,6 +8,7 @@ Project Link:
 Live Dashboard :  https://shorturl.at/AQRKA
 
 Problem Statement:
+
 AtliQ Hardware, a computer hardware and peripherals manufacturer, faced a number of issues, including:
 1. Declining sales
 2. Lack of sales data insight
