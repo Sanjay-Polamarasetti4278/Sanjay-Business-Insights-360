@@ -35,13 +35,21 @@ To address these issues, the sales director implemented a Power BI dashboard to 
 ✔ 𝗔𝗱𝘃𝗮𝗻𝗰𝗲𝗱 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀 𝗜𝗺𝗽𝗹𝗲𝗺𝗲𝗻𝘁𝗲𝗱:
 
 • Data Modeling using STAR & SNOWFLAKE Schema
+
 • Measures
+
 • Calculated Columns
+
 • KPI’s
+
 • Conditional Formatting, 
+
 • Filters
+
 • Slicers
+
 • Dynamic Filters.
+
 • Dynamic Report Refresh Dates.
 
 ✔ 𝗩𝗶𝘀𝘂𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻 𝗧𝗼𝗼𝗹𝘀 𝗨𝘀𝗲𝗱:
