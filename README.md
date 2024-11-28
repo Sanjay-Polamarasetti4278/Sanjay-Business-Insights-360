@@ -19,9 +19,13 @@ To address these issues, the sales director implemented a Power BI dashboard to 
 ✔ 𝗦𝘁𝗮𝗸𝗲𝗵𝗼𝗹𝗱𝗲𝗿 𝗩𝗶𝗲𝘄𝘀 𝗖𝗼𝘃𝗲𝗿𝗲𝗱: 
 
 • Finance
+
 • Sales
+
 • Marketing
+
 • Supply Chain
+
 • Executive perspectives.
 
 ✔ 𝗧𝗼𝗼𝗹𝘀 & 𝗧𝗲𝗰𝗵𝗻𝗶𝗾𝘂𝗲𝘀 𝗨𝘀𝗲𝗱:
@@ -55,28 +59,47 @@ To address these issues, the sales director implemented a Power BI dashboard to 
 ✔ 𝗩𝗶𝘀𝘂𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻 𝗧𝗼𝗼𝗹𝘀 𝗨𝘀𝗲𝗱:
 
 • Card
+
 • Slicer
+
 • Pie Chart
+
 • Donut Chart
+
 • Line and Clustered Column Chart
+
 • Ribbon Chart
+
 • Waterfall Chart
+
 • Area Chart
+
 • Matrix.
 
 ✔ 𝗗𝗔𝗫 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻𝘀 𝗳𝗼𝗿 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀:
 
 • CALCULATE
+
 • ALL
+
 • ALLEXCEPT
+
 • FILTER
+
 • SAMEPERIODLASTYEAR
+
 • HASONEVALUE
+
 • SELECTEDVALUE
+
 • ALLNOBLANKROW
+
 • IF
+
 • MAX
+
 • DIVIDE
+
 • SWITCH.
 
 This hands-on experience helped me to understand the way of building impactful solutions, from data modeling to insightful visualizations.
