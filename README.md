@@ -1,4 +1,4 @@
-# Sanjay-Business-Insights-360 |Power BI|
+# Business-Insights-360 |Power BI|
 Power BI Live Dashboard Link :  https://shorturl.at/AQRKA
 
 Project Summary
